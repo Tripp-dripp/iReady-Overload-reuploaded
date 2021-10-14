@@ -1,0 +1,1 @@
+This is the sourcecode for the lesson viewer featured in the [Chrome extension](/chromeExtension.zip). You can't really do anything with it unless you download the file or just install the chrome extension, which includes it.
