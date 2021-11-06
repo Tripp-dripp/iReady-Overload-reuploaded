@@ -1,3 +1,1 @@
-THIS VERSION DOESNT WORK!
-
-IF YOU NEED A NEW VERSION DOWNLOAD IT AT: https://github.com/cupiditys/iReady-Overload
+I think it works now if it doesnt dm me FailedWare#1337
